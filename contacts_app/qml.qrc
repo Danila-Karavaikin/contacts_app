@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf.txt</file>
+        <file>icons/person.png</file>
+        <file>Contact_Item.qml</file>
+        <file>Contact_List.qml</file>
+        <file>MainToolBar.qml</file>
+        <file>icons/Anna.png</file>
+        <file>icons/Danya.png</file>
+        <file>icons/Egor.png</file>
+        <file>Search_List.qml</file>
+    </qresource>
+</RCC>
